@@ -1,1 +1,1 @@
-# Go-Learning-Examples
+# Go programlama için giriş seviyesinde basit uygulamalar.
